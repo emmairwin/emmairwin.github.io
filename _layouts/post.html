@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <header class="header-post">
@@ -7,7 +7,8 @@ layout: default
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <div class="post-heading">
         <h1>{{ page.title }}</h1>
-        {% if page.subtitle %}
+        Audience: {% if page.subtitle %}
+        Status: Testing
         <h2 class="post-subheading">{{ page.subtitle }}</h2>
         {% endif %}
         <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
