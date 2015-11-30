@@ -15,15 +15,16 @@ subtitle: A temporary location for curriculum in various stages of development a
 	    <b>Audience:</b>  {{ post.subtitle }}
     </span>
 	  {% endif %}
+
     </a>
 
     <p class="post-meta">
-      Status: Testing
+      Status:  {{ post.status }}
     </p>
 
     <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+      {{ post.description }}
+	  <!-- a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a -->
     </div>
 
    </article>
