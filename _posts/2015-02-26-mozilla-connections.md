@@ -3,7 +3,7 @@ layout: post
 title: Mozilla Connections
 status: Testing
 subtitle: Leaders of communities with similar advocacy and goals.  
-description: Through a series of discussion and interviews, this workshop helps participants recognize  their personal and community connections to Mozilla's mission, with a design challenge to 'build bridges' between existing projects and initiatives.
+description: Through a series of discussion and interviews, this workshop helps participants recognize  their personal and community connections to Mozilla's mission, with a design challenge to 'build bridges' between those projects and initiatives.
 framework: Essential Mozilla,  Building for Action and Impact, Empowering Teams and People
 ---
 
