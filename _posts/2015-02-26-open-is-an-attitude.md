@@ -3,7 +3,7 @@ layout: post
 title: Open is a Noun, Verb, Adjective  - an Attitude!
 status: Incomplete Draft
 subtitle:  Community leaders, emerging leaders and anyone looking to understand their community connections to decision  makers in the organization.
-description: Open is a  willingness to share, not only resources, but processes, ideas, thoughts, ways of thinking and operating. Open means working in spaces and places that are transparent and allow others to see what you are doing and how you are doing it, giving rise to opportunities for people who could help you to connect with you, jump in and offer that help. And where you can reciprocate and do the same. This workshop uses storytelling to identify the ways open has already made us successful, while exploring new way build transparency.
+description: Open is a  willingness to share, not only resources, but processes, ideas, thoughts, ways of thinking and operating. Open means working in spaces and places that are transparent and allow others to see what you are doing and how you are doing it, giving rise to opportunities for people who could help you to connect with you, jump in and offer that help. And where you can reciprocate and do the same. This workshop uses storytelling to identify the ways open has already made us successful, while exploring new ways of building transparency.
 framework: Working Open
 ---
 ## Open (noun)

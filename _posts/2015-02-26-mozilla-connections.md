@@ -8,7 +8,8 @@ framework: Essential Mozilla,  Building for Action and Impact, Empowering Teams 
 ---
 
 #Mozilla Connections
-##AGENDA
+
+Agenda and slide deck, as created for Tech Women Session in Mountain View.  Needs to be turned into a workshop format. 
 
 [Slide Deck deck](https://docs.google.com/presentation/d/1xeHKnqB7izIcXtIg0MJ5-Ce_G7Q21GVp3lASB7i0Fxg/edit#slide=id.g590b9fbf90fdd02a_0)
 
