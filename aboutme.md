@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Basically this is rough list of workshops we've created this year.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This is a temporary way to see what workshops we've run, are testing or developing - should you want to contribute to said development or testing.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+None of these are actually meant to be self-serve.  A conversation needs to take place first.  Emma can fill you in on the best formats, outcomes, and results to-date.  What works better online, and offline.
 
-What else do you need?
+### helpful questions, requests, feedback ?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Please email <a href="mailto:eirwin@mozilla.com">Emma</a>.

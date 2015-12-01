@@ -15,7 +15,12 @@ subtitle: A temporary location for curriculum in various stages of development a
 	    <b>Audience:</b>  {{ post.subtitle }}
     </span>
 	  {% endif %}
-
+	  {% if post.framework %}
+  <br/>
+    <span class="post-subtitle" >
+      <b><a href="http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png">Leadership Component:</a> </b>{{ post.framework }}
+    </span>
+    {% endif %}
     </a>
 
     <p class="post-meta">
