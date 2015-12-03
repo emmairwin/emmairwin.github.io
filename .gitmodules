@@ -1,5 +1,6 @@
 [submodule "_includes/community_curriculum"]
 	path = _includes/community_curriculum
 	url = https://github.com/emmairwin/community_curriculum
+	ignore = dirty
 [submodule "community_curriculum"]
 	ignore = dirty
